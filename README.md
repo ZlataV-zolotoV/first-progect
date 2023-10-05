@@ -25,3 +25,4 @@
 **SSH-key состоит из**
 1. private key
 2. public key
+3. End happy!
