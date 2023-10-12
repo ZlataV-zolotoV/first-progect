@@ -51,3 +51,11 @@ HEAD -- это голова.
 
 Статусы файлов:
 
+
+```mermaid
+graph LR
+untracked-- git add -->staged
+staged-- git commit -m -->tracked/comitted
+tracked/comitted-- внесены изменения в файл -->modified 
+```
+
